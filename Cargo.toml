@@ -1,0 +1,7 @@
+[package]
+name = "viewcolors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+yansi = { version = "1.0.1", features = ["hyperlink"] }
